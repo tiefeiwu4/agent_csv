@@ -11,5 +11,5 @@
 ###  2.5 train_model_tool  
 ###  2.6 predict_tool  
 ##  3 构建Agent  
-> 结构化聊天 + 零样本 + ReAct 描述型 
+> - 结构化聊天 + 零样本 + ReAct 描述型 
 
